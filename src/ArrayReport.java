@@ -22,7 +22,7 @@ public class ArrayReport {
                     students[i], scores[i], grade(scores[i]));
         }
 
-        System.out.println("+-----------+-------+-------+");
+        System.out.println("-------------------------");
 
         int total = 0;
         int highest = scores[0];
